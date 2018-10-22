@@ -64,5 +64,5 @@ if(s2 < 500 and s3 < 500 and s4 < 500) //Go straight again
  digitalWrite(m1b, LOW) ;
  digitalWrite(m2b, LOW) ;
  }
-delay(1);  
+delay(1);  //delay of 1 millisecond
 }
